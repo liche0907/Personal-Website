@@ -26,9 +26,14 @@ In a large course, fairness has to be designed in. When I took over a 530-studen
 
 ## Student Comments
 
-Selected comments from end-of-course surveys and official evaluations, quoted as written. On lecture cards, the stars are the rating the same student gave for overall teaching effectiveness (out of 5). Discussion-section evaluations are anonymous and do not tie a comment to a rating, so those cards show the section's average for "overall, is an effective teacher" (out of 7).
+Selected comments from end-of-course surveys and official evaluations, quoted as written. Where a card shows stars, they are the rating the same student gave for overall teaching effectiveness (out of 5). Official evaluations are anonymous and do not tie a comment to a rating, so those cards show the course or section average instead.
 
 <div class="quote-cards">
+<figure class="quote-card quote-card--lecture">
+<figcaption>ECON 003 online course<span class="quote-term">, Summer 2026</span></figcaption>
+<div class="quote-avg">Course evaluations 4.61–4.74 / 5</div>
+<blockquote>Professor Li is an incredible teacher, he keeps the slides and information up to date by providing recent events. He also explains the examples incredibly well which helped my learning of the topic.</blockquote>
+</figure>
 <figure class="quote-card quote-card--lecture">
 <figcaption>ECON 003 lecture<span class="quote-term">, Winter 2026</span></figcaption>
 <div class="quote-stars" role="img" aria-label="Rated 5 out of 5">★★★★★</div>

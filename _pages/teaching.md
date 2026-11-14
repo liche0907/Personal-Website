@@ -53,6 +53,30 @@ Selected comments from end-of-course surveys and official evaluations, quoted as
 <blockquote>The structure of the discussions made the entire course in general non-stressful and I really liked that</blockquote>
 <figcaption>ECON 003 discussion section, Fall 2025</figcaption>
 </figure>
+<figure class="quote-card">
+<blockquote>One of the best TA in UCR in my opinion.</blockquote>
+<figcaption>ECON 101 Statistics for Economics, Fall 2022</figcaption>
+</figure>
+<figure class="quote-card">
+<blockquote>Best Econ TA instructors and was always prepared. He took his time to review the homework, questions, lecture material, and review for exam. He was so patient and overall really helpful in understanding tough material.</blockquote>
+<figcaption>ECON 103 Intermediate Macroeconomics, Summer 2021</figcaption>
+</figure>
+<figure class="quote-card">
+<blockquote>Excellent instructing skills and helpful in the breaking down of the subject matter. Very enthusiastic and genuinely cared about student success.</blockquote>
+<figcaption>ECON 103 Intermediate Macroeconomics, Fall 2020</figcaption>
+</figure>
+<figure class="quote-card">
+<blockquote>Che Li is a great TA. I really liked the discussion course with Che Li because it was a very helpful discussion course to help us catch up if we fell behind in the lectures or with homework.</blockquote>
+<figcaption>ECON 105A Intermediate Macroeconomic Theory, Fall 2021</figcaption>
+</figure>
+<figure class="quote-card">
+<blockquote>Extremely help full during the discussion. I never left the class confused because all my questions would get answered.</blockquote>
+<figcaption>ECON 002 Introduction to Macroeconomics, Winter 2021</figcaption>
+</figure>
+<figure class="quote-card">
+<blockquote>He explained concepts very well and I actually enjoyed attending his discussions</blockquote>
+<figcaption>ECON 002 Introduction to Macroeconomics, Spring 2021</figcaption>
+</figure>
 </div>
 
 ## Instructor of Record, UC Riverside

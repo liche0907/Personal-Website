@@ -70,6 +70,12 @@
   background: var(--global-code-background-color);
 }
 
+/* Comments from lectures taught as instructor of record */
+.quote-card--lecture {
+  border-left-color: #c8891d;
+  background: rgba(200, 137, 29, 0.09);
+}
+
 .quote-card blockquote {
   margin: 0;
   padding: 0;

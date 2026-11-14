@@ -29,19 +29,19 @@ In a large course, fairness has to be designed in. When I took over a 530-studen
 Selected comments from end-of-course surveys and official evaluations, quoted as written.
 
 <div class="quote-cards">
-<figure class="quote-card">
+<figure class="quote-card quote-card--lecture">
 <blockquote>Overall, this class has been the best class I have taken so far at UCR. [...] The slides provided were also super clear and easy to follow.</blockquote>
 <figcaption>ECON 003 lecture<span class="quote-term">, Winter 2026</span></figcaption>
 </figure>
-<figure class="quote-card">
+<figure class="quote-card quote-card--lecture">
 <blockquote>He taught our discussion and our lecture very well when he took over for our professor. He really knows the material and is the most knowledgeable TA I've been taught by so far.</blockquote>
 <figcaption>ECON 003 lecture<span class="quote-term">, Winter 2026</span></figcaption>
 </figure>
-<figure class="quote-card">
+<figure class="quote-card quote-card--lecture">
 <blockquote>Engaged and did activities with the class despite its large size and used fun/relatable examples for better understanding.</blockquote>
 <figcaption>ECON 003 lecture<span class="quote-term">, Winter 2026</span></figcaption>
 </figure>
-<figure class="quote-card">
+<figure class="quote-card quote-card--lecture">
 <blockquote>Amazing and fast email responses!! Also the slides were way easier to understand and take notes on!</blockquote>
 <figcaption>ECON 003 lecture<span class="quote-term">, Winter 2026</span></figcaption>
 </figure>

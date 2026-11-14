@@ -52,15 +52,19 @@
 }
 
 /* Teaching page: student comment cards */
+/* The card block is wider than the text column: it spreads across the viewer's
+   screen and fits as many columns as the width allows. */
 .quote-cards {
-  column-count: 3;
+  position: relative;
+  left: 50%;
+  width: min(94vw, 1500px);
+  transform: translateX(-50%);
+  column-width: 235px;
   column-gap: 0.9em;
   margin: 1em 0 1.5em;
 }
 
 .quote-card {
-  position: relative;
-  min-height: 4.6em;
   display: inline-block;
   width: 100%;
   break-inside: avoid;
@@ -69,25 +73,11 @@
   border: 1px solid var(--global-border-color);
   border-radius: 6px;
   background: var(--global-code-background-color);
-}
-
-/* Oversized quotation mark in the corner of each card */
-.quote-card::after {
-  content: "\201C";
-  position: absolute;
-  top: 0;
-  left: 0.14em;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 5.6em;
-  line-height: 1;
-  color: var(--global-link-color);
-  opacity: 0.55;
-  pointer-events: none;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
 }
 
 .quote-card figcaption {
   margin: 0;
-  padding-left: 3.4em;
   text-align: right;
   font-family: inherit;
   font-size: 0.8em;
@@ -97,7 +87,7 @@
 }
 
 .quote-card .quote-stars {
-  margin-top: 0.35em;
+  margin-top: 0.3em;
   text-align: right;
   font-size: 1em;
   letter-spacing: 0.08em;
@@ -105,8 +95,7 @@
 }
 
 .quote-card .quote-avg {
-  margin-top: 0.35em;
-  padding-left: 3.8em;
+  margin-top: 0.3em;
   text-align: right;
   font-size: 0.72em;
   color: var(--global-text-color);
@@ -114,7 +103,7 @@
 }
 
 .quote-card blockquote {
-  margin: 0.9em 0 0;
+  margin: 0.7em 0 0;
   padding: 0;
   border: 0;
   font-style: normal;
@@ -123,18 +112,31 @@
   color: var(--global-text-color);
 }
 
+/* Oversized opening quotation mark, attached to the first words of the comment */
+.quote-card blockquote::before {
+  content: "\201C";
+  float: left;
+  height: 0.5em;
+  margin: 0.02em 0.1em 0 -0.04em;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 5em;
+  line-height: 0.85;
+  color: var(--global-link-color);
+  opacity: 0.6;
+}
+
 /* Comments from lectures taught as instructor of record */
 .quote-card--lecture {
   background: rgba(200, 137, 29, 0.09);
 }
 
-.quote-card--lecture::after,
+.quote-card--lecture blockquote::before,
 .quote-card--lecture .quote-stars {
   color: #c8891d;
 }
 
-.quote-card--lecture::after {
-  opacity: 0.75;
+.quote-card--lecture blockquote::before {
+  opacity: 0.8;
 }
 
 /* Terms are kept in the page source but not shown. Delete this rule to show them. */
@@ -142,14 +144,3 @@
   display: none;
 }
 
-@media (max-width: 800px) {
-  .quote-cards {
-    column-count: 2;
-  }
-}
-
-@media (max-width: 520px) {
-  .quote-cards {
-    column-count: 1;
-  }
-}

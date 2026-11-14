@@ -40,6 +40,11 @@ Selected comments from end-of-course surveys and official evaluations, quoted as
 <blockquote>Overall, this class has been the best class I have taken so far at UCR. [...] The slides provided were also super clear and easy to follow.</blockquote>
 </figure>
 <figure class="quote-card">
+<figcaption>ECON 103 Intermediate Macroeconomics<span class="quote-term">, Fall 2020</span></figcaption>
+<div class="quote-avg">Section average 6.73 / 7</div>
+<blockquote>Che is a really great TA. He understood the student's struggles during this uncertainty time and made extra effort in helping the student to understand the class's materials better.</blockquote>
+</figure>
+<figure class="quote-card">
 <figcaption>ECON 003 discussion section<span class="quote-term">, Spring 2025</span></figcaption>
 <div class="quote-avg">Section average 6.22 / 7</div>
 <blockquote>Showed great understanding of the subject and helped further our understanding by using proper terminology (still able to explain to us in a simpler way) and showing us how to get the solutions.</blockquote>
@@ -53,6 +58,11 @@ Selected comments from end-of-course surveys and official evaluations, quoted as
 <figcaption>ECON 003 lecture<span class="quote-term">, Winter 2026</span></figcaption>
 <div class="quote-stars" role="img" aria-label="Rated 5 out of 5">★★★★★</div>
 <blockquote>He taught our discussion and our lecture very well when he took over for our professor. He really knows the material and is the most knowledgeable TA I've been taught by so far.</blockquote>
+</figure>
+<figure class="quote-card quote-card--lecture">
+<figcaption>ECON 003 online course<span class="quote-term">, Summer 2026</span></figcaption>
+<div class="quote-avg">Course average 4.61–4.74 / 5</div>
+<blockquote>allowed retakes on quizzes and tests so it was okay to make mistakes and learn</blockquote>
 </figure>
 <figure class="quote-card">
 <figcaption>ECON 101 Statistics for Economics<span class="quote-term">, Fall 2022</span></figcaption>
@@ -75,6 +85,11 @@ Selected comments from end-of-course surveys and official evaluations, quoted as
 <blockquote>Best Econ TA instructors and was always prepared. He took his time to review the homework, questions, lecture material, and review for exam. He was so patient and overall really helpful in understanding tough material.</blockquote>
 </figure>
 <figure class="quote-card">
+<figcaption>ECON 105A Intermediate Macroeconomic Theory<span class="quote-term">, Fall 2021</span></figcaption>
+<div class="quote-avg">Section average 6.50 / 7</div>
+<blockquote>He helped explain concepts covered in class and made it easier to understand what was taught. Also went over practice problems that helped us get a better understanding of the homework. Was very helpful during office hours in regards to problem sets and the term paper.</blockquote>
+</figure>
+<figure class="quote-card">
 <figcaption>ECON 002 Introduction to Macroeconomics<span class="quote-term">, Winter 2021</span></figcaption>
 <div class="quote-avg">Section average 6.10 / 7</div>
 <blockquote>Extremely help full during the discussion. I never left the class confused because all my questions would get answered.</blockquote>
@@ -87,6 +102,11 @@ Selected comments from end-of-course surveys and official evaluations, quoted as
 <figure class="quote-card">
 <figcaption>ECON 003 discussion section<span class="quote-term">, Fall 2025</span></figcaption>
 <blockquote>The structure of the discussions made the entire course in general non-stressful and I really liked that</blockquote>
+</figure>
+<figure class="quote-card">
+<figcaption>ECON 103 Intermediate Macroeconomics<span class="quote-term">, Fall 2020</span></figcaption>
+<div class="quote-avg">Section average 6.73 / 7</div>
+<blockquote>Prepared, professional, and cool guy!</blockquote>
 </figure>
 <figure class="quote-card">
 <figcaption>ECON 002 Introduction to Macroeconomics<span class="quote-term">, Spring 2021</span></figcaption>

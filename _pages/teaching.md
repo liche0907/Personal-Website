@@ -31,51 +31,51 @@ Selected comments from end-of-course surveys and official evaluations, quoted as
 <div class="quote-cards">
 <figure class="quote-card">
 <blockquote>Overall, this class has been the best class I have taken so far at UCR. [...] The slides provided were also super clear and easy to follow.</blockquote>
-<figcaption>ECON 003 lecture, Winter 2026</figcaption>
+<figcaption>ECON 003 lecture<span class="quote-term">, Winter 2026</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>He taught our discussion and our lecture very well when he took over for our professor. He really knows the material and is the most knowledgeable TA I've been taught by so far.</blockquote>
-<figcaption>ECON 003 lecture, Winter 2026</figcaption>
+<figcaption>ECON 003 lecture<span class="quote-term">, Winter 2026</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>Engaged and did activities with the class despite its large size and used fun/relatable examples for better understanding.</blockquote>
-<figcaption>ECON 003 lecture, Winter 2026</figcaption>
+<figcaption>ECON 003 lecture<span class="quote-term">, Winter 2026</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>Amazing and fast email responses!! Also the slides were way easier to understand and take notes on!</blockquote>
-<figcaption>ECON 003 lecture, Winter 2026</figcaption>
+<figcaption>ECON 003 lecture<span class="quote-term">, Winter 2026</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>Showed great understanding of the subject and helped further our understanding by using proper terminology (still able to explain to us in a simpler way) and showing us how to get the solutions.</blockquote>
-<figcaption>ECON 003 discussion section, Spring 2025</figcaption>
+<figcaption>ECON 003 discussion section<span class="quote-term">, Spring 2025</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>The structure of the discussions made the entire course in general non-stressful and I really liked that</blockquote>
-<figcaption>ECON 003 discussion section, Fall 2025</figcaption>
+<figcaption>ECON 003 discussion section<span class="quote-term">, Fall 2025</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>One of the best TA in UCR in my opinion.</blockquote>
-<figcaption>ECON 101 Statistics for Economics, Fall 2022</figcaption>
+<figcaption>ECON 101 Statistics for Economics<span class="quote-term">, Fall 2022</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>Best Econ TA instructors and was always prepared. He took his time to review the homework, questions, lecture material, and review for exam. He was so patient and overall really helpful in understanding tough material.</blockquote>
-<figcaption>ECON 103 Intermediate Macroeconomics, Summer 2021</figcaption>
+<figcaption>ECON 103 Intermediate Macroeconomics<span class="quote-term">, Summer 2021</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>Excellent instructing skills and helpful in the breaking down of the subject matter. Very enthusiastic and genuinely cared about student success.</blockquote>
-<figcaption>ECON 103 Intermediate Macroeconomics, Fall 2020</figcaption>
+<figcaption>ECON 103 Intermediate Macroeconomics<span class="quote-term">, Fall 2020</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>Che Li is a great TA. I really liked the discussion course with Che Li because it was a very helpful discussion course to help us catch up if we fell behind in the lectures or with homework.</blockquote>
-<figcaption>ECON 105A Intermediate Macroeconomic Theory, Fall 2021</figcaption>
+<figcaption>ECON 105A Intermediate Macroeconomic Theory<span class="quote-term">, Fall 2021</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>Extremely help full during the discussion. I never left the class confused because all my questions would get answered.</blockquote>
-<figcaption>ECON 002 Introduction to Macroeconomics, Winter 2021</figcaption>
+<figcaption>ECON 002 Introduction to Macroeconomics<span class="quote-term">, Winter 2021</span></figcaption>
 </figure>
 <figure class="quote-card">
 <blockquote>He explained concepts very well and I actually enjoyed attending his discussions</blockquote>
-<figcaption>ECON 002 Introduction to Macroeconomics, Spring 2021</figcaption>
+<figcaption>ECON 002 Introduction to Macroeconomics<span class="quote-term">, Spring 2021</span></figcaption>
 </figure>
 </div>
 

@@ -20,6 +20,35 @@ For most of my students, introductory economics is the only economics course the
 1. **Interaction.** Students learn by doing. Introductory classes should be driven by games and hands-on practice throughout, using in-class activities and quizzes that run on students' own devices. In technical or advanced classes, producing code and output becomes mandatory: students apply a method from the course to a real-world question of their choice, such as an essay analyzing Covid-19 in a macroeconomics class, or a short study of demographics, labor or health using Current Population Survey data, with tools they learned.
 2. **A reality check.** Concepts should connect to something students recognize from their own lives. And they need to walk away with real applications of the knowledge in the real world. For example, they can learn how to quantify the supply shock of Iran War, even at an introductory level.
 3. **Attention.** Understanding a topic in class is far more efficient than learning from slides after class. Occasional clips from TV help catch students' attention and test how well they can apply concepts. I tend to build a full case around it utilizing important concepts or logics.
+
+   <div class="teaching-example">
+   <p class="teaching-example__label">Example: a slide from my ECON 003 discussion, Week 5 (market outcomes and tax incidence)</p>
+   <p class="teaching-example__title">Just Go with It (2011): The Negotiation</p>
+   <div class="teaching-example__body">
+   <div class="teaching-example__clip">
+   <a href="https://youtu.be/898OUCyBulM?t=62">&#9654; Watch the scene</a>
+   <span>Two minutes, official clip on YouTube. A man bargains with a child actor over her fee for playing his daughter for a day.</span>
+   </div>
+   <div class="teaching-example__case">
+   <ol>
+   <li>Who is buying? Who is selling?</li>
+   <li>Who has the larger surplus?</li>
+   <li>Who is more elastic?</li>
+   </ol>
+   <table>
+   <thead><tr><th></th><th>Danny bids (buyer)</th><th>Maggie asks (seller)</th></tr></thead>
+   <tbody>
+   <tr><th>Round 1</th><td>$50 + 2-week class</td><td>$600 a day + overtime + 6-week camp</td></tr>
+   <tr><th>Round 2</th><td>$300 + 3-week class</td><td>$500 + 4-week class</td></tr>
+   <tr><th>Deal</th><td>$300 + 3-week class</td><td>accepts</td></tr>
+   <tr><th>Walk-away price</th><td>$500</td><td>$0 (would do it for the experience)</td></tr>
+   <tr class="teaching-example__total"><th>Surplus</th><td>$500 − $300 = $200</td><td>$300 − $0 = $300</td></tr>
+   </tbody>
+   </table>
+   </div>
+   </div>
+   <p class="teaching-example__note">The side with fewer alternatives pays more. He is trapped and has no substitute; she can walk away, so she keeps more of the surplus. It is the same logic as tax incidence, which the class had just covered.</p>
+   </div>
 4. **AI as part of learning.** AI should be an important part of learning, built into course materials rather than used to complete assignments. Students can use it to get past technical obstacles, such as debugging code or drawing diagrams, to ask questions about concepts, to generate practice questions, and to evaluate their own thinking and original work. How much AI to allow depends on the level. In introductory courses, it should be kept to a minimum and allowed only for debugging, because good habits and a sense of technical responsibility need to be instilled early. In advanced courses, AI use is expected and even encouraged, but accountability stays with the student: they build and maintain their own code base independently, and understand it well enough to revisit it at any point in their careers. At every level, exams and quizzes are strictly AI-free.
 
 In a large course, fairness has to be designed in. When I took over a 530-student lecture mid-quarter, I coordinated seven teaching assistants, wrote exams in five randomized versions, and handled integrity cases and accommodations myself. I treat assessment as measurement: for my summer course I built tiered question banks, ran an item analysis on the midterm and used it to revise the final. With technical material I start by hand: in a machine learning course, students worked the forward pass and backpropagation on paper before they wrote a line of code.

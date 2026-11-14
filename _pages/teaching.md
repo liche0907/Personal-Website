@@ -24,6 +24,37 @@ For most of my students, introductory economics is the only economics course the
 
 In a large course, fairness has to be designed in. When I took over a 530-student lecture mid-quarter, I coordinated seven teaching assistants, wrote exams in five randomized versions, and handled integrity cases and accommodations myself. I treat assessment as measurement: for my summer course I built tiered question banks, ran an item analysis on the midterm and used it to revise the final. With technical material I start by hand: in a machine learning course, students worked the forward pass and backpropagation on paper before they wrote a line of code.
 
+## Student Comments
+
+Selected comments from end-of-course surveys and official evaluations, quoted as written.
+
+<div class="quote-cards">
+<figure class="quote-card">
+<blockquote>Overall, this class has been the best class I have taken so far at UCR. [...] The slides provided were also super clear and easy to follow.</blockquote>
+<figcaption>ECON 003 lecture, Winter 2026</figcaption>
+</figure>
+<figure class="quote-card">
+<blockquote>He taught our discussion and our lecture very well when he took over for our professor. He really knows the material and is the most knowledgeable TA I've been taught by so far.</blockquote>
+<figcaption>ECON 003 lecture, Winter 2026</figcaption>
+</figure>
+<figure class="quote-card">
+<blockquote>Engaged and did activities with the class despite its large size and used fun/relatable examples for better understanding.</blockquote>
+<figcaption>ECON 003 lecture, Winter 2026</figcaption>
+</figure>
+<figure class="quote-card">
+<blockquote>Amazing and fast email responses!! Also the slides were way easier to understand and take notes on!</blockquote>
+<figcaption>ECON 003 lecture, Winter 2026</figcaption>
+</figure>
+<figure class="quote-card">
+<blockquote>Showed great understanding of the subject and helped further our understanding by using proper terminology (still able to explain to us in a simpler way) and showing us how to get the solutions.</blockquote>
+<figcaption>ECON 003 discussion section, Spring 2025</figcaption>
+</figure>
+<figure class="quote-card">
+<blockquote>The structure of the discussions made the entire course in general non-stressful and I really liked that</blockquote>
+<figcaption>ECON 003 discussion section, Fall 2025</figcaption>
+</figure>
+</div>
+
 ## Instructor of Record, UC Riverside
 
 * ECON 003, Introduction to Microeconomics (Summer 2026). Evaluations: 4.61–4.74 out of 5. [Course materials](https://github.com/liche0907/Summer-Econ-003-Course-Materials)

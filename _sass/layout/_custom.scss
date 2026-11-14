@@ -1,0 +1,52 @@
+/* Site-specific overrides: one centered column, no sidebar. */
+
+#main {
+  max-width: 880px;
+}
+
+#main .page {
+  float: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.page__content h2 {
+  margin-top: 1.6em;
+}
+
+.page__content .entry-meta {
+  color: #666;
+  font-style: italic;
+}
+
+/* Home page: photo beside the introduction */
+.home-intro {
+  display: flex;
+  gap: 2.2em;
+  align-items: flex-start;
+  margin-top: 0.5em;
+}
+
+.home-intro img {
+  flex: 0 0 300px;
+  width: 300px;
+  height: auto;
+  border-radius: 4px;
+}
+
+.home-intro .home-text p:first-child {
+  margin-top: 0;
+}
+
+@media (max-width: 700px) {
+  .home-intro {
+    flex-direction: column;
+  }
+
+  .home-intro img {
+    flex: none;
+    width: 70%;
+    max-width: 300px;
+  }
+}

@@ -18,7 +18,7 @@ Textbook theory says a currency should strengthen when its central bank raises i
 **A News and Central-Bank Text Dataset for Macro-Financial Events**  
 News headlines and Federal Reserve statements, 1996–2026, coded with a large language model and matched to intraday and daily market data.
 
-**Machine Learning and Return Predictability** (dissertation chapter 2)  
+**Machine Learning and Return Predictability**  
 Whether text and macro data help predict asset returns, tested out of sample.
 
 ## Earlier Work

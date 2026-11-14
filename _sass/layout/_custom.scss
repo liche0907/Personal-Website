@@ -165,3 +165,41 @@
   color: var(--global-text-color);
   opacity: 0.7;
 }
+
+/* Dark theme: the word cloud swaps to its light-on-dark version, and the comment cards
+   get dark surfaces so their text stays readable. */
+.comment-cloud .cloud-dark {
+  display: none;
+}
+
+html[data-theme="dark"] {
+  .comment-cloud .cloud-light {
+    display: none;
+  }
+
+  .comment-cloud .cloud-dark {
+    display: inline;
+  }
+
+  .quote-card {
+    background: rgba(255, 255, 255, 0.07);
+    border-color: rgba(255, 255, 255, 0.16);
+    box-shadow: none;
+  }
+
+  .quote-card blockquote::before,
+  .quote-card .quote-stars {
+    color: #6fd0ea;
+    opacity: 0.8;
+  }
+
+  .quote-card--lecture {
+    background: rgba(230, 176, 79, 0.14);
+  }
+
+  .quote-card--lecture blockquote::before,
+  .quote-card--lecture .quote-stars {
+    color: #e6b04f;
+    opacity: 0.9;
+  }
+}

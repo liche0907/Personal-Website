@@ -27,8 +27,8 @@ In a large course, fairness has to be designed in. When I took over a 530-studen
 ## Student Comments
 
 <figure class="comment-cloud">
-<img src="/images/student-comment-cloud.png" alt="Word cloud of student comments. The largest entries are helpful, real-world examples, explains clearly, clear, easy to understand, explains concepts, clear slides, engaging and great.">
-<figcaption>What students said most often, from 239 positive comments across all my courses. Gold: how they described the teaching. Blue: what they pointed to. Larger means more comments.</figcaption>
+<img src="/images/student-comment-cloud.png" alt="Word cloud of how students described the teaching. The largest entries are helpful, real-world examples, explains clearly, answers every question, easy to understand, clear, good examples and knowledgeable.">
+<figcaption>How students described my teaching, from all 248 positive comments across my courses. Gold: words for the instructor. Blue: what the teaching offered. Larger means more comments.</figcaption>
 </figure>
 
 Selected comments from end-of-course surveys and official evaluations, quoted as written. Where a card shows stars, they are the rating the same student gave for overall teaching effectiveness (out of 5). Official evaluations are anonymous and do not tie a comment to a rating, so those cards show the course or section average instead.

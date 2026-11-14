@@ -60,6 +60,7 @@
 
 .quote-card {
   position: relative;
+  min-height: 4.6em;
   display: inline-block;
   width: 100%;
   break-inside: avoid;
@@ -72,10 +73,10 @@
 
 /* Oversized quotation mark in the corner of each card */
 .quote-card::after {
-  content: "\201D";
+  content: "\201C";
   position: absolute;
   top: 0;
-  right: 0.14em;
+  left: 0.14em;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 5.6em;
   line-height: 1;
@@ -86,7 +87,8 @@
 
 .quote-card figcaption {
   margin: 0;
-  padding-right: 3.4em;
+  padding-left: 3.4em;
+  text-align: right;
   font-family: inherit;
   font-size: 0.8em;
   font-weight: 700;
@@ -96,6 +98,7 @@
 
 .quote-card .quote-stars {
   margin-top: 0.35em;
+  text-align: right;
   font-size: 1em;
   letter-spacing: 0.08em;
   color: var(--global-link-color);
@@ -103,13 +106,16 @@
 
 .quote-card .quote-avg {
   margin-top: 0.35em;
+  padding-left: 4.5em;
+  text-align: right;
+  white-space: nowrap;
   font-size: 0.72em;
   color: var(--global-text-color);
   opacity: 0.7;
 }
 
 .quote-card blockquote {
-  margin: 0.6em 0 0;
+  margin: 0.9em 0 0;
   padding: 0;
   border: 0;
   font-style: normal;
